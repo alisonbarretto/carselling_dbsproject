@@ -27,7 +27,7 @@ SECRET_KEY = '6$9i_#_!56wtg)jxm_&x*@s@(%+)-mq%hnhie-&x&)&k7o8bhj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['morning-stream-18414.herokuapp.com', 'https://carzone-dbs-app.herokuapp.com/']
+ALLOWED_HOSTS = ['morning-stream-18414.herokuapp.com', 'carzone-dbs-app.herokuapp.com']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
