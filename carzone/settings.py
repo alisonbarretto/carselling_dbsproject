@@ -25,7 +25,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '6$9i_#_!56wtg)jxm_&x*@s@(%+)-mq%hnhie-&x&)&k7o8bhj'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['morning-stream-18414.herokuapp.com', 'carzone.co']
 
